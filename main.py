@@ -1,3 +1,6 @@
+# the purpose of this file is to continuosly enhance
+# the program/scraper
+
 import requests
 from bs4 import BeautifulSoup
 
