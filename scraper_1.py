@@ -1,3 +1,6 @@
+""" this scraper extracts data (product name and price) from a 
+single dynamic page """
+
 import requests
 from bs4 import BeautifulSoup
 
